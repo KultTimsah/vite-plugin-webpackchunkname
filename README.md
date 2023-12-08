@@ -1,11 +1,5 @@
 
 
-✨✨✨ Star the plugin if it useful for u.💖
-
-## Install
-
-Install the package from npm (or yarn, or pnpm).
-
 ```bash
 npm install --save-dev vite-plugin-webpackchunkname
 ```
